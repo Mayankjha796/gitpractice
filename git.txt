@@ -1,0 +1,46 @@
+1. `git init`: Initializes a new Git repository.
+2. `git clone <repository>`: Clones a remote repository to create a local copy.
+3. `git add <file>`: Adds a file to the staging area.
+4. `git commit -m "<message>"`: Commits the changes in the staging area.
+5. `git status`: Shows the status of the working directory.
+6. `git log`: Displays the commit history.
+7. `git diff`: Shows the differences between the working directory and the last commit.
+8. `git branch`: Lists all branches in the repository.
+9. `git checkout <branch>`: Switches to a different branch.
+10. `git merge <branch>`: Merges changes from a specified branch into the current branch.
+11. `git pull`: Fetches and merges changes from a remote repository into the current branch.
+12. `git push`: Pushes local commits to a remote repository.
+13. `git remote`: Lists the remote repositories associated with the local repository.
+14. `git fetch`: Retrieves changes from a remote repository but does not merge them.
+15. `git stash`: Stashes changes in a temporary area to switch branches or save work in progress.
+16. `git tag`: Lists or adds tags to specific commits.
+17. `git show`: Displays information about a specific commit or object.
+18. `git reset`: Resets the current HEAD to a specified state or commit.
+19. `git revert`: Reverts a commit by creating a new commit that undoes the changes.
+20. `git rm`: Removes files from the repository.
+21. `git mv`: Renames or moves files within the repository.
+22. `git remote add <name> <url>`: Adds a new remote repository.
+23. `git remote remove <name>`: Removes a remote repository.
+24. `git remote rename <old_name> <new_name>`: Renames a remote repository.
+25. `git remote show <name>`: Displays information about a remote repository.
+26. `git config`: Sets or gets Git configuration options.
+27. `git fetch --all`: Fetches all branches from remote repositories.
+28. `git checkout -b <branch>`: Creates a new branch and switches to it.
+29. `git branch -d <branch>`: Deletes a branch.
+30. `git rebase <branch>`: Rebases the current branch onto another branch.
+31. `git cherry-pick <commit>`: Applies the changes of a specific commit to the current branch.
+32. `git bisect`: Helps find the commit that introduced a bug.
+33. `git log --graph`: Displays the commit history in a graph format.
+34. `git blame <file>`: Shows who made each change to a file and in which commit.
+35. `git config --global <key> <value>`: Sets a global Git configuration option.
+36. `git remote -v`: Lists remote repositories with their URLs.
+37. `git show-branch`: Displays the branch structure and their commits.
+38. `git clean`: Removes untracked files from the working directory.
+39. `git reflog`: Shows a log of all branch references.
+40. `git stash apply`: Applies the most recent stash to the working directory.
+41. `git cherry-pick --abort`: Cancels a cherry-pick operation.
+42. `git submodule`: Manages Git submodules within a repository.
+43. `git grep`: Searches for a pattern in files and commits.
+44. `git log --author="<author>"`: Displays the commit history
+
+git 
