@@ -44,3 +44,4 @@
 44. `git log --author="<author>"`: Displays the commit history
 
 git file changes
+
