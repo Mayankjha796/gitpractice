@@ -43,4 +43,4 @@
 43. `git grep`: Searches for a pattern in files and commits.
 44. `git log --author="<author>"`: Displays the commit history
 
-git 
+git file changes
